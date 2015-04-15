@@ -7870,7 +7870,7 @@ Source: www.kingbright.com</description>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" deviceset="+5V" device=""/>
 <part name="LED1" library="led" deviceset="LED" device="5MM"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0207/15" value="10K"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="0207/15" value="330"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="SW1" library="adafruit" deviceset="SPST_TACT" device="-EVQQ2"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
